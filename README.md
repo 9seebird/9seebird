@@ -19,7 +19,7 @@
 | | |
 |:--|:--|
 | 📄 이력서 · 케이스 스터디 | [9seebird.tech](https://9seebird.tech) |
-| 🏢 대표작 — 사내 AI 챗 포털 | [코드](https://github.com/9seebird/portal-portfolio) · [체험판]([데모 URL]) · [설계 배경](https://www.9seebird.tech/portal-case-study.html) |
+| 🏢 대표작 — 사내 AI 챗 포털 | [코드](https://github.com/9seebird/portal-portfolio) · [체험판](https://portal.trendkit.app) · [설계 배경](https://www.9seebird.tech/portal-case-study.html) |
 | ✍️ 블로그 | [9seebird.tistory.com](https://9seebird.tistory.com) |
 | 📊 Tableau | [public.tableau.com/…/9seebird](https://public.tableau.com/app/profile/9seebird/vizzes) |
 
