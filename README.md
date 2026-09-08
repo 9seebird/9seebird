@@ -28,6 +28,7 @@
 | 프로젝트 | 한 줄 요약 | 스택 |
 |:--|:--|:--|
 | [**portal-portfolio**](https://github.com/9seebird/portal-portfolio) | nginx `auth_request` 게이트웨이 뒤에 FastAPI 앱 9개를 붙이고, 챗이 앱 API를 호출해 답하는 사내 포털. 체험 계정 포함 | FastAPI · nginx · Docker · OpenAI |
+| [**trendkit**](https://github.com/9seebird/trendkit) | 엑셀 병합 · 키워드 트렌드 · 워드클라우드 등 사무용 웹 도구 모음 → [trendkit.app](https://trendkit.app) | Next.js · FastAPI · Vercel · Render |
 | [**lapoem_chatbot**](https://github.com/9seebird/lapoem_chatbot) | LangChain 기반 도서 추천 · 문의 챗봇 | Python · LangChain |
 | [**music_chart**](https://github.com/9seebird/music_chart) | 멜론 · 지니 · 벅스 차트를 모아 비교하는 서비스 → [music-chart.trendkit.app](https://music-chart.trendkit.app) | FastAPI · Next.js |
 | [**melon-chart**](https://github.com/9seebird/melon-chart) | 멜론 차트를 CSV로 저장하는 도구 | Python |
